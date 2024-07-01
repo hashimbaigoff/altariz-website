@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </li>
           <li class="nav-item">
           
-            <a class="nav-link headerBtnc" href="career.html">Career</a>
+            <a class="nav-link headerBtnc" href="career.html">Career<sup>NEW</sup></a>
             
           </li>
         </ul>
